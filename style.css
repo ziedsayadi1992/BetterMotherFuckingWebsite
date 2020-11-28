@@ -1,0 +1,15 @@
+body{
+margin: 2rem auto;
+max-width: 48vw;
+line-height: 1.45;
+font-size: 18px;
+color: #444;
+}
+
+h1,h2,h3,h4{
+    font-weight: bold;
+}
+
+span{
+    font-style: italic
+}
